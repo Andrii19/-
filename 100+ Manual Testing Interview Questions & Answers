@@ -558,32 +558,3 @@ Ques.100. What are the entry criteria in software testing?
 Ans. A set of prerequisites that are required to kick-off the testing activity and that includes Test environment, Test tool, Test Data, database connectivity, and many more.
 
 
-Ques.101. What is exit criteria in software testing?
-Ans. An exit criteria is a formal set of conditions that specify the agreed-upon features or state of the application in order to mark the completion of the process or product.
-
-
-Ques.102. What is the difference between testing and debugging?
-Ans. Testing is primarily performed by the testing team in order to find the defects in the system. Whereas, debugging is an activity performed by the development team. In debugging the cause of the defect is located and fixed. Thus removing the defect and preventing any future occurrence of the defect as well.
-
-Another difference between the two is – testing can be done without any internal knowledge of software architecture. Whereas debugging requires knowledge of software architecture and coding.
-
-
-Ques.103. Explain the Agile methodology?
-Ans. The agile methodology of software development is based on an iterative and incremental approach. In this model, the application is broken down into smaller builds on which different cross-functional teamwork together providing rapid delivery along with adapting to changing needs at the same time.
-
-Also, check – Agile vs Waterfall | Selecting the right model for your project
-
-
-Ques.104. What is scrum?
-Ans. A scrum is a process for implementing Agile methodology. In scrum, time is divided into sprints and on completion of sprints, a deliverable is shipped.
-
-
-Ques.105. What are the different roles in scrum?
-Ans. The different roles in scrum are –
-
-Product Owner – The product owner owns the whole development of the product, assigns tasks to the team and acts as an interface between the scrum team(development team) and the stakeholders.
-Scrum Master – The scrum master monitors that scrum rules get followed in the team and conducts scrum meetings.
-Scrum Team – A scrum team participate in the scrum meetings and perform the tasks assigned.
-
-Ques.106. What is a scrum meeting?
-Ans. A scrum meeting is a daily meeting in the scrum process. This meeting is conducted by scrum master and update of the previous day’s work along with the next day’s task and context is defined in this meeting.
